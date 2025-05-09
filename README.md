@@ -2,6 +2,7 @@
 
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/22c66a88-363e-42ba-a6a7-1c2ba7472673" width="300px" height="300px" item-align="center" alt="ConversorImgExample">
+  <img src="https://github.com/user-attachments/assets/a587156a-4bbf-497f-9e96-3e94cc62a2de" width="300px" height="300px" item-align="center" alt="badgetConversor">
 </div>
 
 <h2 align="center">Introducción</h2>
